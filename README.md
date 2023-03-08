@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EAC7C7,100:C0DEFF&fontColor=FF8AAE&height=300&section=header&text=Hey%20There✨&fontSize=90&capsule_render&animation=fadeIn&fontAlignY=40&desc=I'm%20Zainab.&fontAlignY=100)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=About%20Me&fontSize=24&fontColor=FF8AAE&fontAlign=7&fontAlignY=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=About%20Me&fontSize=24&fontColor=FF8AAE&fontAlign=7&animation=twinkling)
 
  <img align="right" src="https://media.tenor.com/QBvUbxubpa8AAAAC/nisekoi-kosaki-onodera.gif" width="300"/>
 
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 <br/>
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Contact%20Me&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=30&text=Contact%20Me&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
 <p align="center">
     <a href="https://www.linkedin.com/in/zainab-salah-6169431b4/"><img alt="linkedin" width="10%" style="padding:5px"
             src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
@@ -29,7 +29,7 @@
             src="https://img.icons8.com/clouds/100/000000/instagram.png" /></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Stuff%20I%20Worked%20With&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Stuff%20I%20Worked%20With&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
 <p align="center">
   
   
@@ -50,7 +50,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=My%20GitHub%20History&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainy01&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainy01&langs_count=5)](https://github.com/kainy01/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainy01&show_icons=true&theme=buefy)
+
+
+
+
+
+
+
+![Snake animation](https://github.com/kainy01/kainy01/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAC7C7,100:C0DEFF&height=100&section=footer"/>
+</p>
 
 
 
