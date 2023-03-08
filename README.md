@@ -51,7 +51,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=My%20GitHub%20History&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainy01&langs_count=5)](https://github.com/kainy01/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainy01&show_icons=true&theme=buefy)
 
 
