@@ -55,11 +55,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainy01&show_icons=true&theme=buefy)
 
 
-
-
-
-
-
 ![Snake animation](https://github.com/kainy01/kainy01/blob/output/github-contribution-grid-snake.svg)
 
 
