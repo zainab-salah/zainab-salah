@@ -14,8 +14,8 @@
 ⭕ I love making **Art** & playing **Games** 🎮
 <br/>
 ⭕ 2023 Goals: work in a **big Tech Co.** 🏃‍♀️
-<br/>
-⭕ Fun fact: I love playing league of legends ❤
+
+
 <br/>
 <br/>
 <br/>
