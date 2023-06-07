@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=About%20Me&fontSize=24&fontColor=FF8AAE&fontAlign=7&animation=twinkling)
 
- <img align="right" src="https://media.tenor.com/QBvUbxubpa8AAAAC/nisekoi-kosaki-onodera.gif" width="300"/>
+<!--  <img align="right" src="https://media.tenor.com/QBvUbxubpa8AAAAC/nisekoi-kosaki-onodera.gif" width="300"/> -->
 
 
 ⭕ Working as junior **Web developer** 💻
