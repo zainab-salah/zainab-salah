@@ -28,6 +28,7 @@
             src="https://img.icons8.com/clouds/100/000000/facebook-new.png" /></a>
     <a href="https://www.instagram.com/kainy_onodera/"><img alt="instagram" width="10%" style="padding:5px"
             src="https://img.icons8.com/clouds/100/000000/instagram.png" /></a>
+      <a href="mailto:zainab.salah.m@outlook.com"><img width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/new-post.png" alt="new-post"/></a>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Stuff%20I%20Worked%20With&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
