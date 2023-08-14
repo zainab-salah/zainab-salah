@@ -5,9 +5,9 @@
 <!--  <img align="right" src="https://media.tenor.com/QBvUbxubpa8AAAAC/nisekoi-kosaki-onodera.gif" width="300"/> -->
 
 
-⭕ Working as junior **Web developer** 💻
+⭕ Working as **Web developer** 💻
 <br/>
-⭕ Currently learning **React** 🍭
+⭕ Currently learning **Flutter** 🍭
 <br/>
 ⭕ Check out my **<a href="https://kainy.work/">CV</a>** 📝
 <br/>
