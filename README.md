@@ -48,6 +48,11 @@
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width="48" height="48" style="padding:5px"/>
 <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" width="48" height="48" style="padding:5px"/>
   <img src="https://img.icons8.com/officel/40/null/react.png" width="48" height="48" style="padding:5px"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" width="48" height="48" style="padding:5px"/>
+  <img src="https://img.icons8.com/fluency/48/typescript--v2.png" width="48" height="48" style="padding:5px"/>
+    <img src="https://img.icons8.com/color/48/firebase.png" width="48" height="48" style="padding:5px"/>
+    <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="48" height="48" style="padding:5px"/>
+    <img src="https://img.icons8.com/color/48/tailwindcss.png" width="48" height="48" style="padding:5px"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=My%20GitHub%20History&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
