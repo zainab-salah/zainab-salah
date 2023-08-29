@@ -52,9 +52,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=My%20GitHub%20History&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainy01&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainy01&show_icons=true&theme=buefy)
-![GitHub Streak](https://streak-stats.demolab.com/?user=kainy01)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-salah&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab-salah&show_icons=true&theme=buefy)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zainab-salah)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAC7C7,100:C0DEFF&height=100&section=footer"/>
