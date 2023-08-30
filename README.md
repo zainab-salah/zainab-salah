@@ -7,7 +7,7 @@
 
 ⭕ Working as **Web developer** 💻
 <br/>
-⭕ Currently learning **Flutter** 🍭
+⭕ Currently learning **TS** 🍭
 <br/>
 ⭕ Check out my **<a href="https://kainy.work/">CV</a>** 📝
 <br/>
