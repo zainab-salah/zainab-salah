@@ -12,8 +12,7 @@
 ⭕ Check out my **<a href="https://kainy.work/">CV</a>** 📝
 <br/>
 ⭕ I love making **Art** & playing **Games** 🎮
-<br/>
-⭕ 2023 Goals: work in a **big Tech Co.** 🏃‍♀️
+
 
 
 <br/>
