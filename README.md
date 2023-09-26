@@ -9,7 +9,7 @@
 <br/>
 ⭕ Currently learning **TS** 🍭
 <br/>
-⭕ Check out my **<a href="https://kainy.work/">CV</a>** 📝
+⭕ Check out my **<a href="https://portfolio-kainy01.vercel.app/">Portfolio</a>** 📝
 <br/>
 ⭕ I love making **Art** & playing **Games** 🎮
 
