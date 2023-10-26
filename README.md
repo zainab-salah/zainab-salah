@@ -54,11 +54,14 @@
     <img src="https://img.icons8.com/color/48/tailwindcss.png" width="48" height="48" style="padding:5px"/>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainab-salah&bg_color=f9e1ee&color=94248c&line=529e4c&point=3e413f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=My%20GitHub%20History&fontSize=24&fontColor=FF8AAE&fontAlign=50&animation=twinkling)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-salah&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab-salah&show_icons=true&theme=buefy)
-![GitHub Streak](https://streak-stats.demolab.com/?user=zainab-salah)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-salah&layout=compact&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab-salah&show_icons=true&theme=cobalt)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zainab-salah&theme=tokyonight)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAC7C7,100:C0DEFF&height=100&section=footer"/>
