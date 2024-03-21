@@ -7,7 +7,7 @@
 
 ⭕ Working as **Web developer** 💻
 <br/>
-⭕ Currently learning **TS** 🍭
+⭕ Currently learning **PY** 🍭
 <br/>
 ⭕ Check out my **<a href="https://portfolio-kainy01.vercel.app/">Portfolio</a>** 📝
 <br/>
