@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EAC7C7,100:C0DEFF&fontColor=FF8AAE&height=300&section=header&text=Hey%20There✨&fontSize=90&capsule_render&animation=fadeIn&fontAlignY=40&desc=I'm%20Zainab.&fontAlignY=100)
+![header](https://c.tenor.com/h0mocw4K4ywAAAAC/tenor.gif)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=About%20Me&fontSize=24&fontColor=FF8AAE&fontAlign=7&animation=twinkling)
+ 
 
 <!--  <img align="right" src="https://media.tenor.com/QBvUbxubpa8AAAAC/nisekoi-kosaki-onodera.gif" width="300"/> -->
 
