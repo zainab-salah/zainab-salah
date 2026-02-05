@@ -9,8 +9,6 @@
 <br/>
 ⭕ Currently learning **PY** 🍭
 <br/>
-⭕ Check out my **<a href="https://portfolio-kainy01.vercel.app/">Portfolio</a>** 📝
-<br/>
 ⭕ I love making **Art** & playing **Games** 🎮
 
 
