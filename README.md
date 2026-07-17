@@ -7,7 +7,7 @@
 
 ⭕ Working as **Web developer** 💻
 <br/>
-⭕ Currently learning **PY** 🍭
+⭕ Currently improving my system design skills **PY** 🍭
 <br/>
 ⭕ I love making **Art** & playing **Games** 🎮
 
