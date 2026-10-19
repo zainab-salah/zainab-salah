@@ -9,7 +9,7 @@ const PLUM = "#94248c";
 const TEXT = "#5a4a5e";
 const BG = "#fff5f9";
 const BORDER = "#f6c1d9";
-const CARD_H = 240;
+const CARD_H = 216;
 
 const query = `query($login: String!) {
   user(login: $login) {
@@ -80,7 +80,6 @@ function statsCard(u) {
   const stars = u.repositories.nodes.reduce((n, r) => n + r.stargazerCount, 0);
   const rows = [
     ["🌸", "Contributions (last year)", u.contributionsCollection.contributionCalendar.totalContributions],
-    ["💻", "Commits (last year)", u.contributionsCollection.totalCommitContributions],
     ["🔥", "Current streak", `${current} day${current === 1 ? "" : "s"}`],
     ["🏆", "Longest streak", `${longest} day${longest === 1 ? "" : "s"}`],
     ["📦", "Public repos", u.repositories.totalCount],
