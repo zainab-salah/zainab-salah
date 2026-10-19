@@ -58,7 +58,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>🌸 Frontend</b></td>
+    <td align="center"><b>Frontend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux,sass,bootstrap,materialui&perline=12" alt="ts, js, html, css, react, nextjs, tailwind, redux, sass, bootstrap, materialui"/>
       <br/>
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🌙 Backend & data</b></td>
+    <td align="center"><b>Backend & data</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,postgres,mysql,mongodb,redis,prisma,firebase&perline=12" alt="nodejs, express, python, django, php, laravel, postgres, mysql, mongodb, redis, prisma, firebase"/>
       <br/>
@@ -74,19 +74,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🤖 AI & real-time</b></td>
+    <td align="center"><b>AI & real-time</b></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI_API-6B8E23?style=flat-square" alt="OpenAI API"/> <img src="https://img.shields.io/badge/LangChain-6B8E23?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/RAG-6B8E23?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Pinecone-6B8E23?style=flat-square" alt="Pinecone"/> <img src="https://img.shields.io/badge/LiveKit-6B8E23?style=flat-square" alt="LiveKit"/> <img src="https://img.shields.io/badge/AI_voice_agents-6B8E23?style=flat-square" alt="AI voice agents"/> <img src="https://img.shields.io/badge/Coding_agents-6B8E23?style=flat-square" alt="Coding agents"/> <img src="https://img.shields.io/badge/WebSockets-6B8E23?style=flat-square" alt="WebSockets"/> <img src="https://img.shields.io/badge/WebRTC-6B8E23?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>💳 Payments & auth</b></td>
+    <td align="center"><b>Payments & auth</b></td>
     <td>
       <img src="https://img.shields.io/badge/Stripe-6B8E23?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/Kinde-6B8E23?style=flat-square" alt="Kinde"/> <img src="https://img.shields.io/badge/OAuth_2.0-6B8E23?style=flat-square" alt="OAuth 2.0"/> <img src="https://img.shields.io/badge/JWT-6B8E23?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/RBAC-6B8E23?style=flat-square" alt="RBAC"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td align="center"><b>Cloud & DevOps</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,cloudflare,linux&perline=12" alt="docker, gcp, vercel, cloudflare, linux"/>
       <br/>
@@ -94,7 +94,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🎀 Testing & tools</b></td>
+    <td align="center"><b>Testing & tools</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=jest,cypress,git,github,gitlab,postman,vscode,cpp&perline=12" alt="jest, cypress, git, github, gitlab, postman, vscode, cpp"/>
       <br/>
