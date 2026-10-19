@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/kainy_onodera/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF8AAE?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-⭕ Working as a **Full-Stack Developer** at Dizayn VIP on [DTEC Labs](https://dteclabs.com/en) 💻
+⭕ Working as a **Full-Stack Developer** at [Dizayn VIP](https://www.dizaynvip.com/) on [DTEC Labs](https://dteclabs.com/en) 💻
 <br/>
 ⭕ Building the dashboard for an AI call-center app: live calls, permissions, lots of tables 📞
 <br/>
@@ -47,7 +47,7 @@
 
 | When | Role | Where |
 |---|---|---|
-| 2025 – now | Full-Stack Developer | Dizayn VIP ([DTEC Labs](https://dteclabs.com/en)), Istanbul |
+| 2025 – now | Full-Stack Developer | [Dizayn VIP](https://www.dizaynvip.com/) ([DTEC Labs](https://dteclabs.com/en)), Istanbul |
 | 2025 – 2026 | Frontend Developer / Team Lead (part-time) | [Invizion Holding](https://invizionholding.com/), Istanbul |
 | 2023 – 2024 | Frontend Developer | Ibtekar, remote |
 | 2022 – 2024 | Full-Stack Developer → Frontend Team Lead | Mazaya, remote |
