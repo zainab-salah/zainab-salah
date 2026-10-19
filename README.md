@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=FF8AAE&center=true&vCenter=true&width=560&lines=Frontend+%2F+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Open+to+remote+work+or+moving+to+Germany" alt="Frontend / Full-Stack Engineer"/>
 </p>
 
-<h3 align="center">Hi, I'm Zainab, or Kainy 🌸</h3>
+<h3 align="center">Hi, I'm Zainab 🌸</h3>
 <p align="center">Frontend / full-stack dev in Istanbul · React, Next.js, TypeScript, Django</p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br/>
 ⭕ Building the dashboard for an AI call-center app: live calls, permissions, lots of tables 📞
 <br/>
-⭕ Led the frontend team at Mazaya and [Invizion](https://invizionholding.com/) before that 🌙
+⭕ Led the frontend team at Mazaya, Ibtekar and [Invizion](https://invizionholding.com/) before that 🌙
 <br/>
 ⭕ Doing my **M.Sc. in Cybersecurity** at [Üsküdar University](https://uskudar.edu.tr) 🔐
 <br/>
@@ -49,7 +49,7 @@
 |---|---|---|
 | 2025 – now | Full-Stack Developer | [Dizayn VIP](https://www.dizaynvip.com/) ([DTEC Labs](https://dteclabs.com/en)), Istanbul |
 | 2025 – 2026 | Frontend Developer / Team Lead (part-time) | [Invizion Holding](https://invizionholding.com/), Istanbul |
-| 2023 – 2024 | Frontend Developer | Ibtekar, remote |
+| 2023 – 2024 | Frontend Team Lead | Ibtekar, remote |
 | 2022 – 2024 | Full-Stack Developer → Frontend Team Lead | Mazaya, remote |
 
 <br/>
@@ -60,34 +60,39 @@
   <tr>
     <td align="center"><b>🌸 Frontend</b></td>
     <td>
-      <img src="https://img.icons8.com/fluency/48/typescript--v2.png" width="40" height="40" alt="TypeScript" title="TypeScript"/>
-      <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-      <img src="https://img.icons8.com/officel/40/null/react.png" width="40" height="40" alt="React" title="React"/>
-      <img src="https://img.icons8.com/color/48/nextjs.png" width="40" height="40" alt="Next.js" title="Next.js"/>
-      <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-      <img src="https://img.icons8.com/color/48/redux.png" width="40" height="40" alt="Redux" title="Redux"/>
-      <img src="https://img.icons8.com/color/48/null/sass.png" width="40" height="40" alt="Sass" title="Sass"/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,sass,html,css,vite&perline=10" alt="ts,js,react,nextjs,redux,tailwind,sass,html,css,vite"/>
+      <br/>
+      <img src="https://img.shields.io/badge/TanStack_Query-FF8AAE?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/> <img src="https://img.shields.io/badge/Zustand-FF8AAE?style=flat-square" alt="Zustand"/> <img src="https://img.shields.io/badge/shadcn/ui-FF8AAE?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/Material_UI-FF8AAE?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/> <img src="https://img.shields.io/badge/Accessibility-FF8AAE?style=flat-square" alt="Accessibility"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🌙 Backend & data</b></td>
     <td>
-      <img src="https://img.icons8.com/color/48/null/nodejs.png" width="40" height="40" alt="Node.js" title="Node.js"/>
-      <img src="https://img.icons8.com/color/48/python--v1.png" width="40" height="40" alt="Python" title="Python"/>
-      <img src="https://img.icons8.com/color/48/django.png" width="40" height="40" alt="Django" title="Django"/>
-      <img src="https://img.icons8.com/color/48/postgreesql.png" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-      <img src="https://img.icons8.com/color/48/null/mysql-logo.png" width="40" height="40" alt="MySQL" title="MySQL"/>
-      <img src="https://img.icons8.com/color/48/redis.png" width="40" height="40" alt="Redis" title="Redis"/>
-      <img src="https://img.icons8.com/color/48/firebase.png" width="40" height="40" alt="Firebase" title="Firebase"/>
-      <img src="https://img.icons8.com/officel/40/null/php-logo.png" width="40" height="40" alt="PHP" title="PHP"/>
-      <img src="https://img.icons8.com/stickers/45/null/laravel.png" width="40" height="40" alt="Laravel" title="Laravel"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,laravel,php,postgres,mysql,redis,prisma,firebase&perline=10" alt="nodejs,express,python,django,laravel,php,postgres,mysql,redis,prisma,firebase"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Django_REST-FF8AAE?style=flat-square&logo=django&logoColor=white" alt="Django REST"/> <img src="https://img.shields.io/badge/tRPC-FF8AAE?style=flat-square&logo=trpc&logoColor=white" alt="tRPC"/> <img src="https://img.shields.io/badge/Zod-FF8AAE?style=flat-square&logo=zod&logoColor=white" alt="Zod"/> <img src="https://img.shields.io/badge/WebSockets-FF8AAE?style=flat-square" alt="WebSockets"/> <img src="https://img.shields.io/badge/Stripe-FF8AAE?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/OAuth_2.0-FF8AAE?style=flat-square" alt="OAuth 2.0"/> <img src="https://img.shields.io/badge/JWT-FF8AAE?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🎀 Tools</b></td>
+    <td align="center"><b>🤖 AI & LLM</b></td>
     <td>
-      <img src="https://img.icons8.com/color/48/docker.png" width="40" height="40" alt="Docker" title="Docker"/>
-      <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="40" height="40" alt="Cypress" title="Cypress"/>
+      <img src="https://img.shields.io/badge/OpenAI_API-FF8AAE?style=flat-square" alt="OpenAI API"/> <img src="https://img.shields.io/badge/LangChain-FF8AAE?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/RAG-FF8AAE?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Pinecone-FF8AAE?style=flat-square" alt="Pinecone"/> <img src="https://img.shields.io/badge/LiveKit-FF8AAE?style=flat-square" alt="LiveKit"/> <img src="https://img.shields.io/badge/AI_voice_agents-FF8AAE?style=flat-square" alt="AI voice agents"/> <img src="https://img.shields.io/badge/Coding_agents-FF8AAE?style=flat-square" alt="Coding agents"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,cloudflare,githubactions,gitlab,linux&perline=10" alt="docker,gcp,vercel,cloudflare,githubactions,gitlab,linux"/>
+      <br/>
+      <img src="https://img.shields.io/badge/DigitalOcean-FF8AAE?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean"/> <img src="https://img.shields.io/badge/pnpm_monorepos-FF8AAE?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm monorepos"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎀 Testing & tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest,git,github,postman,figma&perline=10" alt="jest,git,github,postman,figma"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Cypress-FF8AAE?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/Playwright-FF8AAE?style=flat-square" alt="Playwright"/> <img src="https://img.shields.io/badge/ClickUp-FF8AAE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"/>
     </td>
   </tr>
 </table>

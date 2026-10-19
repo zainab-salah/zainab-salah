@@ -95,7 +95,7 @@ function statsCard(u) {
   </g>`;
     })
     .join("\n");
-  return frame(320, CARD_H, "Kainy's GitHub stats", body);
+  return frame(320, CARD_H, "Zainab's GitHub stats", body);
 }
 
 function langsCard(u) {
