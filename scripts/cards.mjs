@@ -1,14 +1,14 @@
-// Builds stats.svg and langs.svg for the profile README in the pink theme.
+// Builds stats.svg and langs.svg for the profile README in the olive theme.
 import { mkdirSync, writeFileSync, readFileSync } from "node:fs";
 
 const outDir = process.argv[2] || "dist";
 const user = process.env.GH_USER || "zainab-salah";
 
-const PINK = "#FF8AAE";
-const PLUM = "#94248c";
-const TEXT = "#5a4a5e";
-const BG = "#fff5f9";
-const BORDER = "#f6c1d9";
+const ACCENT = "#6B8E23";
+const DEEP = "#556B2F";
+const TEXT = "#4A4F3A";
+const BG = "#F7F8EE";
+const BORDER = "#D5DCB0";
 const CARD_H = 216;
 
 const query = `query($login: String!) {
@@ -63,9 +63,9 @@ const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 function frame(width, height, title, body) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${esc(title)}">
   <style>
-    .t { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: ${PLUM}; }
+    .t { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: ${DEEP}; }
     .l { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: ${TEXT}; }
-    .v { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: ${PLUM}; }
+    .v { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: ${DEEP}; }
   </style>
   <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="12" fill="${BG}" stroke="${BORDER}"/>
   <text x="24" y="34" class="t">${esc(title)}</text>
@@ -79,7 +79,7 @@ function statsCard(u) {
   const { current, longest } = streaks(days);
   const stars = u.repositories.nodes.reduce((n, r) => n + r.stargazerCount, 0);
   const rows = [
-    ["🌸", "Contributions (last year)", u.contributionsCollection.contributionCalendar.totalContributions],
+    ["🌿", "Contributions (last year)", u.contributionsCollection.contributionCalendar.totalContributions],
     ["🔥", "Current streak", `${current} day${current === 1 ? "" : "s"}`],
     ["🏆", "Longest streak", `${longest} day${longest === 1 ? "" : "s"}`],
     ["📦", "Public repos", u.repositories.totalCount],
@@ -102,7 +102,7 @@ function langsCard(u) {
   const totals = new Map();
   for (const repo of u.repositories.nodes) {
     for (const { size, node } of repo.languages.edges) {
-      const prev = totals.get(node.name) || { size: 0, color: node.color || PINK };
+      const prev = totals.get(node.name) || { size: 0, color: node.color || ACCENT };
       totals.set(node.name, { size: prev.size + size, color: prev.color });
     }
   }
