@@ -34,10 +34,12 @@ async function load() {
   if (process.argv[3]) return JSON.parse(readFileSync(process.argv[3], "utf8"));
   const res = await fetch("https://api.github.com/graphql", {
     method: "POST",
-    headers: { Authorization: `bearer ${process.env.GITHUB_TOKEN}`, "Content-Type": "application/json" },
+    headers: { Authorization: `bearer ${process.env.GITHUB_TOKEN}`, "Content-Type": "application/json", "User-Agent": "profile-cards" },
     body: JSON.stringify({ query, variables: { login: user } }),
   });
-  const json = await res.json();
+  const text = await res.text();
+  let json;
+  try { json = JSON.parse(text); } catch { throw new Error(`HTTP ${res.status}: ${text.slice(0, 300)}`); }
   if (!json.data?.user) throw new Error(`GraphQL failed: ${JSON.stringify(json.errors || json)}`);
   return json.data.user;
 }
@@ -133,8 +135,14 @@ ${legend}`;
   return frame(320, CARD_H, "Most used languages", body);
 }
 
-const u = await load();
 mkdirSync(outDir, { recursive: true });
-writeFileSync(`${outDir}/stats.svg`, statsCard(u));
-writeFileSync(`${outDir}/langs.svg`, langsCard(u));
-console.log(`Wrote ${outDir}/stats.svg and ${outDir}/langs.svg`);
+try {
+  const u = await load();
+  writeFileSync(`${outDir}/stats.svg`, statsCard(u));
+  writeFileSync(`${outDir}/langs.svg`, langsCard(u));
+  console.log(`Wrote ${outDir}/stats.svg and ${outDir}/langs.svg`);
+} catch (err) {
+  // Keep the snake publishing even if the stats query fails; the error is saved next to the cards.
+  console.error(err);
+  writeFileSync(`${outDir}/cards-error.txt`, String(err?.stack || err));
+}
