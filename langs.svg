@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="216" viewBox="0 0 320 216" role="img" aria-label="Most used languages">
+  <style>
+    .t { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #556B2F; }
+    .l { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #4A4F3A; }
+    .v { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #556B2F; }
+  </style>
+  <rect x="0.5" y="0.5" width="319" height="215" rx="12" fill="#F7F8EE" stroke="#D5DCB0"/>
+  <text x="24" y="34" class="t">Most used languages</text>
+  <clipPath id="c"><rect x="24" y="50" width="272" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#c)"><rect x="24.0" y="50" width="142.8" height="10" fill="#3178c6"/><rect x="166.8" y="50" width="52.7" height="10" fill="#f1e05a"/><rect x="219.5" y="50" width="40.2" height="10" fill="#4F5D95"/><rect x="259.7" y="50" width="13.5" height="10" fill="#e34c26"/><rect x="273.3" y="50" width="11.8" height="10" fill="#663399"/><rect x="285.1" y="50" width="10.9" height="10" fill="#f7523f"/></g>
+  <g>
+    <circle cx="29" cy="82" r="5" fill="#3178c6"/>
+    <text x="40" y="86" class="l">TypeScript 52.5%</text>
+  </g>
+  <g>
+    <circle cx="169" cy="82" r="5" fill="#f1e05a"/>
+    <text x="180" y="86" class="l">JavaScript 19.4%</text>
+  </g>
+  <g>
+    <circle cx="29" cy="106" r="5" fill="#4F5D95"/>
+    <text x="40" y="110" class="l">PHP 14.8%</text>
+  </g>
+  <g>
+    <circle cx="169" cy="106" r="5" fill="#e34c26"/>
+    <text x="180" y="110" class="l">HTML 5.0%</text>
+  </g>
+  <g>
+    <circle cx="29" cy="130" r="5" fill="#663399"/>
+    <text x="40" y="134" class="l">CSS 4.4%</text>
+  </g>
+  <g>
+    <circle cx="169" cy="130" r="5" fill="#f7523f"/>
+    <text x="180" y="134" class="l">Blade 4.0%</text>
+  </g>
+</svg>

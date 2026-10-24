@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="216" viewBox="0 0 320 216" role="img" aria-label="Zainab's GitHub stats">
+  <style>
+    .t { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #556B2F; }
+    .l { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #4A4F3A; }
+    .v { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #556B2F; }
+  </style>
+  <rect x="0.5" y="0.5" width="319" height="215" rx="12" fill="#F7F8EE" stroke="#D5DCB0"/>
+  <text x="24" y="34" class="t">Zainab's GitHub stats</text>
+  <g>
+    <text x="24" y="66" class="l">🌿  Contributions (last year)</text>
+    <text x="296" y="66" class="v" text-anchor="end">977</text>
+  </g>
+  <g>
+    <text x="24" y="91" class="l">🔥  Current streak</text>
+    <text x="296" y="91" class="v" text-anchor="end">0 days</text>
+  </g>
+  <g>
+    <text x="24" y="116" class="l">🏆  Longest streak</text>
+    <text x="296" y="116" class="v" text-anchor="end">7 days</text>
+  </g>
+  <g>
+    <text x="24" y="141" class="l">📦  Public repos</text>
+    <text x="296" y="141" class="v" text-anchor="end">50</text>
+  </g>
+  <g>
+    <text x="24" y="166" class="l">⭐  Stars</text>
+    <text x="296" y="166" class="v" text-anchor="end">16</text>
+  </g>
+  <g>
+    <text x="24" y="191" class="l">🔀  Pull requests</text>
+    <text x="296" y="191" class="v" text-anchor="end">73</text>
+  </g>
+</svg>
