@@ -23,7 +23,7 @@
 <br/>
 ⭕ Doing my **M.Sc. in Cybersecurity** at [Üsküdar University](https://uskudar.edu.tr) 🔐
 <br/>
-⭕ I love making **Art** & playing **Games** 🎮
+⭕ I love making **Art** 
 <br/>
 ⭕ Open to remote work ✈️
 
